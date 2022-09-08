@@ -1,0 +1,9 @@
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\bin\Debug\Interes.vb.exe.config
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\bin\Debug\Interes.vb.exe
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\bin\Debug\Interes.vb.pdb
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\bin\Debug\Interes.vb.xml
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\obj\Debug\Interes.vb.Resources.resources
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\obj\Debug\Interes.vb.vbproj.GenerateResource.Cache
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\obj\Debug\Interes.vb.exe
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\obj\Debug\Interes.vb.xml
+D:\Facultad\Programacion\Actividad 1\Interes.vb\Interes.vb\Interes.vb\obj\Debug\Interes.vb.pdb
